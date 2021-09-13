@@ -1,10 +1,7 @@
-CS 3200 Final Project
-
-Authors: Roshan Pai, Marty Vo
+Authors: Marty Vo, Roshan Pai
 
 This project consists of a database application representing statistics of the 2019 NFL season. The front-end of the project is written in 
-Java and utilizes the JDBC connector to connect to the database server. The back-end component is a dump of our database written in SQL using
-MySQL workbench. To access and run our project, you will need the following software:
+Java and utilizes the JDBC connector to connect to the MySQL database server. To access and run our project, you will need the following software:
 
 - IDE capable of running a Java file. We recommend IntelliJ or Eclipse.
 IntelliJ: https://www.jetbrains.com/idea/download/
